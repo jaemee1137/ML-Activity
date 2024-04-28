@@ -15,7 +15,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to my Website</h1>
+    <h1>Welcome to my Web Page</h1>
 </body>
 </html>
 
