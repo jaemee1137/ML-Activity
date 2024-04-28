@@ -15,7 +15,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to my website</h1>
+    <h1>Welcome to my Website</h1>
 </body>
 </html>
 
@@ -24,15 +24,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Insert File Link</title>
+    <title>Here is my Activities in  G-Drive Link</title>
 </head>
 <body>
-    <h1>Insert File Link</h1>
+    <h1>Here is my Activities in  G-Drive Link</h1>
     <form>
         <label for="fileLink">File Link:</label>
-        <input type="text" id="fileLink" name="fileLink" placeholder="Enter file link...">
+        <!-- Replace the placeholder value with the provided file link -->
+        <input type="text" id="fileLink" name="fileLink" value="https://drive.google.com/drive/folders/1MvVbkRglJR8qyT3bb0Bj9vreUvF1KJjQ?usp=drive_link">
         <br>
-        <input type="submit" value="Insert Link">
+       
     </form>
 </body>
 </html>
